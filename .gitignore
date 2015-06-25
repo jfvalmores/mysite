@@ -1,0 +1,7 @@
+#    PYC Files    #
+###################
+*.pyc
+
+# database files  #
+###################
+*.sqlite3
