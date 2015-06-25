@@ -1,2 +1,2 @@
-Hello world
+This is my progress with Django tutorial
 
